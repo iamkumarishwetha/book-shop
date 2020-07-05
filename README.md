@@ -42,7 +42,8 @@ Admin:
 -  Can manage ordered books from user
 
 ### Test card details for payment
-card number: 5123456789012346
+
+Card Number: 5123456789012346
 
 Name on Card: test
 
