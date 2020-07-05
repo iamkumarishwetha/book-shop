@@ -40,3 +40,14 @@ Admin:
 -  Can manage Categories
 -  Can manage Book
 -  Can manage ordered books from user
+
+### Test card details for payment
+card number: 5123456789012346
+Name on Card: test
+CVV: 123
+Expiry Date: 05/21
+
+OTP: 123456
+
+
+
